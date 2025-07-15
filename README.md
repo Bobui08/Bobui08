@@ -1,7 +1,10 @@
 ## Hi Khang 👋
 
 # 💫 About Me:
-🧪 I’m currently working on<br>Building responsive and scalable front-end applications using React, Redux, and TypeScript.<br><br>👯 I’m looking to collaborate on<br>Projects that involve full-stack development, especially those using Node.js, Express, or Next.js.<br><br>🤝 I’m looking for help with<br>Improving my back-end skills, particularly with database design (SQL/NoSQL) and API security best practices.<br><br>🌱 I’m currently learning<br>NestJS, MongoDB, and how to structure clean, maintainable full-stack architectures.<br><br>💬 Ask me about<br>React performance optimization, reusable component patterns, and UI/UX best practices.<br><br>⚡ Fun fact<br>I enjoy turning complex UI challenges into clean, minimal interfaces—and I drink way too much coffee while doing it!
+🚀 **Full-Stack Developer** crafting scalable web applications with the modern **TypeScript** ecosystem<br>
+⚡ Specialized in **React/Next.js** frontends and **NestJS** backends with robust database architectures<br>
+🎯 Focused on clean code, performance optimization, and delivering exceptional user experiences<br>
+✨ Passionate about solving complex problems through elegant, maintainable solutions
 
 
 ## 🌐 Socials:
