@@ -15,8 +15,9 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats-six-amber-24.vercel.app/api?username=KhangDev&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KhangDev&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhangDev&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-six-amber-24.vercel.app/api?username=KhangDev&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true)<br/>
+![Top Langs](https://github-readme-stats-six-amber-24.vercel.app/api/top-langs/?username=KhangDev&layout=compact&theme=cobalt2&count_private=true)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KhangDev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
