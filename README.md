@@ -1,6 +1,6 @@
-## Hi Khang 👋
+<h1 align="center">Hi Khang 👋</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 🚀 **Full-Stack Developer** crafting scalable web applications with the modern **TypeScript** ecosystem<br>
 ⚡ Specialized in **React/Next.js** frontends and **NestJS** backends with robust database architectures<br>
 🎯 Focused on clean code, performance optimization, and delivering exceptional user experiences<br>
